@@ -38,7 +38,7 @@ public class SymmetricWordsFinder {
         if (symmetricWords.isEmpty()) {
             System.out.println("Немає симетричних слів.");
         } else {
-            System.out.println("Symmetric words: " + symmetricWords);
+            System.out.println("Симетричні слова: " + symmetricWords);
         }
     }
 
